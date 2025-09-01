@@ -1,0 +1,96 @@
+Claude Code Prompt for Hotel Booking Data Analysis
+Context
+I'm working on a Business Analyst Intern assignment for TravClan involving hotel booking data analysis. I have a CSV file Hotel_bookings_final.csv with 30,000 rows and 24 columns containing booking transactions from an online travel platform.
+Dataset Schema
+The dataset contains these columns:
+
+customer_id, property_id, city, star_rating
+booking_date, check_in_date, check_out_date, travel_date
+room_type, num_rooms_booked, stay_type
+booking_channel, channel_of_booking, booking_status
+booking_value, costprice, markup, selling_price
+payment_method, refund_status, refund_amount
+cashback, coupon_redeem, Coupon USed?
+
+Assignment Requirements
+1. Key Observations (Identify at least 3 meaningful trends)
+
+Analyze booking patterns across channels, room types, and star ratings
+Examine cancellation behavior patterns
+Identify temporal trends and seasonal patterns
+
+2. Root Cause Analysis
+
+Investigate reasons for cancellation patterns
+Analyze why certain booking channels/property types perform better
+Examine seasonal/temporal trends affecting booking values and stay lengths
+
+3. Business Recommendations
+
+Strategies to reduce cancellations
+Ways to improve profitability and increase repeat bookings
+Opportunities for pricing, promotion, and channel optimization
+
+Deliverables Needed
+
+Python analysis code with comprehensive data exploration
+Visualizations supporting key findings
+Summary insights for business recommendations
+
+Specific Tasks for Claude Code
+Please help me:
+
+Data Exploration & Cleaning
+
+Load and examine the dataset structure
+Handle missing values and data quality issues
+Create derived features (booking lead time, stay duration, profit margins, etc.)
+
+
+Key Pattern Analysis
+
+Booking trends by channel, room type, star rating
+Cancellation analysis by various dimensions
+Revenue and profitability patterns
+Seasonal/temporal trend analysis
+
+
+Advanced Analytics
+
+Customer segmentation analysis
+Channel performance comparison
+Pricing strategy insights
+Correlation analysis between key metrics
+
+
+Visualization Creation
+
+Create compelling charts for:
+
+Booking patterns across different dimensions
+Cancellation trends and reasons
+Revenue/profitability analysis
+Seasonal patterns
+Channel performance comparison
+
+
+
+
+Business Intelligence
+
+Calculate key metrics (cancellation rates, average booking values, profit margins)
+Identify top-performing and underperforming segments
+Generate actionable insights for business recommendations
+
+
+
+Output Requirements
+
+Well-commented Python code with clear structure
+High-quality visualizations using matplotlib/seaborn/plotly
+Data-driven insights that directly address the assignment questions
+Professional analysis suitable for a business presentation
+
+Timeline
+This is a 4-hour assignment due September 3rd, 2025 by 4 PM. Please prioritize the most impactful analyses that will provide clear business value.
+Can you help me create a comprehensive Python script that addresses all these requirements systematically?
