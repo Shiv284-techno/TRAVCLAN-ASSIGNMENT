@@ -453,26 +453,4 @@ class HotelBookingAnalysis:
 
 ---
 
-## 📞 Contact & Support
-
-**Analyst**: Business Analyst Intern  
-**Project**: TravClan Hotel Booking Analysis  
-**Date**: September 2025  
-
-For questions, clarifications, or additional analysis requests, please refer to the detailed analysis report (`HOTEL_BOOKING_ANALYSIS_REPORT.md`) or contact the analysis team.
-
----
-
-## 📜 License & Acknowledgments
-
-This project is developed as part of the TravClan Business Analyst Intern assignment. The analysis methodology follows industry best practices for hospitality data analytics and business intelligence.
-
-**Technologies Used**: Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly  
-**Analysis Framework**: Comprehensive business intelligence methodology  
-**Reporting Standard**: Professional consulting-grade deliverables  
-
----
-
-*"Data is the new oil, but analytics is the refinery that turns it into actionable business value."*
-
 **Project Status**: ✅ **COMPLETED** | **Quality**: 🏆 **PRODUCTION READY** | **Impact**: 💰 **HIGH ROI**
